@@ -108,6 +108,7 @@ cpshared libjpeg-8
 cpshared libogg-0
 cpshared opus-0
 cpshared orc-0.4-0
+cpshared pcre2-8-0
 cpshared libpng16-16
 cpshared libvorbis-0
 cpshared libvorbisenc-2
