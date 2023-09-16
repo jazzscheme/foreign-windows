@@ -1,5 +1,7 @@
 #! /bin/sh
 
+cd ../../foreign/jazz-git-windows
+
 if [ -d include ]; then
   rm -r include
 fi

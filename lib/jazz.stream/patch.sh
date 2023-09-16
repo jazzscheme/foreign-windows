@@ -1,5 +1,7 @@
 #! /bin/sh
 
+cd ../../foreign/jazz-stream-windows
+
 GSTREAMERDISTR=/c/Home/gstreamer/gstreamer/distr
 
 

@@ -1,5 +1,7 @@
 #! /bin/sh
 
+cd ../../foreign/jazz-png-windows
+
 GSTREAMER=/c/gstreamer/1.0/msvc_x86_64
 
 

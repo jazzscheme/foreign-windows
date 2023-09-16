@@ -1,5 +1,7 @@
 #! /bin/sh
 
+cd ../../foreign/jazz-pixman-windows
+
 GSTREAMER=/c/gstreamer/1.0/msvc_x86_64
 
 

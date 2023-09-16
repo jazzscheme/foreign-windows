@@ -1,5 +1,7 @@
 #! /bin/sh
 
+cd ../../foreign/jazz-stream-windows
+
 RNNOISE=/c/Home/gstreamer/rnnoise
 
 cp $RNNOISE/rnnoise/windows/lib/rnnoise.dll bin/rnnoise.dll

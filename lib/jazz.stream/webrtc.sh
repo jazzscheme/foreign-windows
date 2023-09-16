@@ -1,5 +1,7 @@
 #! /bin/sh
 
+cd ../../foreign/jazz-stream-windows
+
 WEBRTC=/c/Home/gstreamer/webrtc/x64/Release
 WEBRTCAUDIOPROCESSING=/c/Home/gstreamer/webrtcaudioprocessing/build/plugin
 
