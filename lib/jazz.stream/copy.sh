@@ -76,10 +76,10 @@ cpbundle gstreamer-1.0/gstwavparse
 cpbundle gstreamer-1.0/gstwinks
 cpbundle gstreamer-1.0/gstwinscreencap
 cpbundle gstreamer-1.0/gstx264
-cpshared avcodec-59
-cpshared avfilter-8
-cpshared avformat-59
-cpshared avutil-57
+cpshared avcodec-60
+cpshared avfilter-9
+cpshared avformat-60
+cpshared avutil-58
 cpshared bz2
 cpshared ffi-7
 cpshared gio-2.0-0
@@ -105,7 +105,7 @@ cpshared gsttag-1.0-0
 cpshared gstvideo-1.0-0
 cpshared intl-8
 cpshared libjpeg-8
-cpshared libogg-0
+cpshared ogg-0
 cpshared opus-0
 cpshared orc-0.4-0
 cpshared pcre2-8-0
